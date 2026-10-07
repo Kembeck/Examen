@@ -1,6 +1,6 @@
 # Examen
 Retroalimentación Examen Parcial 1 
-# Cambios realizados al código
+# Errores solucionados
 
 - En la clase `Pizza` faltaban declarar las variables `tipoSalsa`, `tipoBase` y `toppings`.
 
@@ -15,6 +15,7 @@ Retroalimentación Examen Parcial 1
 - Se modificó `Orden` para que el usuario pueda elegir cuántos toppings quiere y cuáles desea agregar.
 
 - Se agregó validación para evitar opciones incorrectas al seleccionar los toppings.
+
 
 - Se modificó la selección de salsa para que el usuario pueda escogerla mediante opciones.
 
